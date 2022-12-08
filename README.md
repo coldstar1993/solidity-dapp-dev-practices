@@ -12,11 +12,13 @@ https://www.smartcontract.engineer/challenges<br>
 ## Best Practices
 ### security
 https://github.com/ConsenSys/smart-contract-best-practices<br>
+https://github.com/nascentxyz/simple-security-toolkit <br>
 https://github.com/crytic/building-secure-contracts <br>
 https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/50-solidity-security<br>
 https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc <br>
 https://github.com/OpenZeppelin/openzeppelin-contracts <br>
 https://github.com/ConsenSys/ethereum-developer-tools-list#security-tools <br>
+
 
 ### performance
 https://github.com/iskdrews/awesome-solidity-gas-optimization <br>
